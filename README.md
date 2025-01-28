@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Application-Web-Design
 ## Datos personales
 - **Nombre**: [Armando]
@@ -28,3 +29,7 @@ Markdown es un lenguaje de marcado ligero que permite formatear texto de manera 
 - **Titulo**: ## Encabezado
 -**Negritas**: **Negritas**
 -**Listas**: -Lista
+=======
+"# Application-Web-Design" 
+
+>>>>>>> c27e17a3195fe52544f3696d16f88299c2b4a25f
